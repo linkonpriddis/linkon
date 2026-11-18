@@ -346,5 +346,1215 @@
     "related": [
       "large"
     ]
+  },
+  {
+    "word": "accordion",
+    "definition": "A free-reed instrument in which air from a bellows makes metal reeds vibrate; buttons or keys control pitches and chords.",
+    "synonyms": [
+      "keyboard instrument",
+      "free-reed instrument"
+    ],
+    "related": [
+      "keyboard",
+      "bellows",
+      "reed",
+      "folk music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "acoustic guitar",
+    "definition": "A string instrument whose hollow body amplifies the vibration of its strings without electronic amplification.",
+    "synonyms": [
+      "guitar",
+      "steel-string guitar",
+      "nylon-string guitar"
+    ],
+    "related": [
+      "string instrument",
+      "frets",
+      "pick",
+      "strumming"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "alto saxophone",
+    "definition": "A single-reed woodwind instrument pitched in E-flat, common in jazz, concert bands, and saxophone sections.",
+    "synonyms": [
+      "sax",
+      "alto"
+    ],
+    "related": [
+      "saxophone",
+      "woodwind",
+      "reed",
+      "jazz"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "banjo",
+    "definition": "A plucked string instrument with a membrane-covered circular body and a bright, sharply defined tone.",
+    "synonyms": [
+      "five-string banjo",
+      "tenor banjo"
+    ],
+    "related": [
+      "string instrument",
+      "bluegrass",
+      "picking"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "baritone saxophone",
+    "definition": "A large, low-pitched E-flat saxophone used in jazz ensembles, concert bands, and saxophone quartets.",
+    "synonyms": [
+      "bari sax"
+    ],
+    "related": [
+      "saxophone",
+      "woodwind",
+      "reed"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "bass clarinet",
+    "definition": "A low-register single-reed woodwind instrument with a clarinet mouthpiece and an extended body.",
+    "synonyms": [
+      "low clarinet"
+    ],
+    "related": [
+      "clarinet",
+      "woodwind",
+      "reed"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "bass drum",
+    "definition": "A large percussion instrument that produces a deep sound when struck with a padded mallet or beater.",
+    "synonyms": [
+      "kick drum",
+      "orchestral bass drum"
+    ],
+    "related": [
+      "percussion",
+      "drum",
+      "mallet",
+      "marching band"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "bass guitar",
+    "definition": "A low-pitched electric or acoustic string instrument that commonly provides the bass line in a band.",
+    "synonyms": [
+      "electric bass",
+      "bass"
+    ],
+    "related": [
+      "string instrument",
+      "frets",
+      "amplifier",
+      "rhythm section"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "bassoon",
+    "definition": "A large double-reed woodwind instrument with a long folded wooden tube and a low, warm register.",
+    "synonyms": [
+      "bass woodwind"
+    ],
+    "related": [
+      "double reed",
+      "woodwind",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "bell",
+    "definition": "A percussion instrument that produces a resonant tone when its body is struck or its internal clapper moves.",
+    "synonyms": [
+      "handbell",
+      "tuned bell"
+    ],
+    "related": [
+      "percussion",
+      "resonance",
+      "pitch"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "cello",
+    "definition": "A bowed string instrument held between the knees, with a range between the viola and double bass.",
+    "synonyms": [
+      "violoncello"
+    ],
+    "related": [
+      "string instrument",
+      "bow",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "chimes",
+    "definition": "A set of suspended metal tubes or bars that sound when struck, often producing bright, sustained tones.",
+    "synonyms": [
+      "tubular bells",
+      "orchestral chimes"
+    ],
+    "related": [
+      "percussion",
+      "tuned percussion",
+      "mallet"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "clarinet",
+    "definition": "A woodwind instrument with a single reed and a cylindrical bore, known for a broad range and flexible tone.",
+    "synonyms": [
+      "B-flat clarinet",
+      "A clarinet"
+    ],
+    "related": [
+      "single reed",
+      "woodwind",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "clavichord",
+    "definition": "An early keyboard instrument in which metal tangents strike strings directly, allowing subtle dynamic control.",
+    "synonyms": [
+      "historical keyboard"
+    ],
+    "related": [
+      "keyboard",
+      "strings",
+      "early music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "concertina",
+    "definition": "A small free-reed instrument with bellows and buttons, related to the accordion.",
+    "synonyms": [
+      " Anglo concertina",
+      "English concertina"
+    ],
+    "related": [
+      "free-reed",
+      "bellows",
+      "folk music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "cornet",
+    "definition": "A brass instrument with a compact, conical tube and a mellow tone, often used in brass bands.",
+    "synonyms": [
+      "B-flat cornet"
+    ],
+    "related": [
+      "brass",
+      "mouthpiece",
+      "valves",
+      "brass band"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "cymbals",
+    "definition": "Metal percussion plates that create a bright crash or sustained shimmer when struck together or with a mallet.",
+    "synonyms": [
+      "crash cymbal",
+      "suspended cymbal"
+    ],
+    "related": [
+      "percussion",
+      "drum set",
+      "orchestral percussion"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "double bass",
+    "definition": "The largest and lowest-pitched standard bowed string instrument in the orchestra, also called the contrabass.",
+    "synonyms": [
+      "contrabass",
+      "upright bass"
+    ],
+    "related": [
+      "string instrument",
+      "bow",
+      "plucked bass"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "drum set",
+    "definition": "A group of drums and cymbals arranged for one player, commonly used in popular music and jazz.",
+    "synonyms": [
+      "drum kit",
+      "kit"
+    ],
+    "related": [
+      "percussion",
+      "snare drum",
+      "bass drum",
+      "cymbals"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "euphonium",
+    "definition": "A medium-low brass instrument with a conical bore and a rich, rounded tone, common in brass and concert bands.",
+    "synonyms": [
+      "tenor tuba"
+    ],
+    "related": [
+      "brass",
+      "valves",
+      "baritone"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "flute",
+    "definition": "A high-register woodwind instrument in which air is directed across an opening to create sound; most modern flutes are made of metal.",
+    "synonyms": [
+      "concert flute",
+      "C flute"
+    ],
+    "related": [
+      "woodwind",
+      "embouchure",
+      "piccolo"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "flugelhorn",
+    "definition": "A valved brass instrument with a wide conical bore and a soft, mellow tone.",
+    "synonyms": [
+      "flugel"
+    ],
+    "related": [
+      "brass",
+      "trumpet",
+      "cornet"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "French horn",
+    "definition": "A coiled brass instrument with a large flared bell and a wide range, used in orchestras and bands.",
+    "synonyms": [
+      "horn",
+      "orchestral horn"
+    ],
+    "related": [
+      "brass",
+      "mouthpiece",
+      "valves",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "glockenspiel",
+    "definition": "A tuned percussion instrument made of metal bars arranged like a keyboard and struck with mallets.",
+    "synonyms": [
+      "orchestral bells"
+    ],
+    "related": [
+      "percussion",
+      "mallet",
+      "tuned percussion"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "gong",
+    "definition": "A large metal percussion instrument that produces a powerful resonant sound when struck.",
+    "synonyms": [
+      "tam-tam"
+    ],
+    "related": [
+      "percussion",
+      "resonance",
+      "mallet"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "harp",
+    "definition": "A plucked string instrument with strings stretched across a frame, often using pedals or levers to change pitch.",
+    "synonyms": [
+      "concert harp",
+      "pedal harp"
+    ],
+    "related": [
+      "string instrument",
+      "plucking",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "harpsichord",
+    "definition": "A keyboard instrument whose keys operate plectra that pluck strings, producing a clear sound with little dynamic variation.",
+    "synonyms": [
+      "historical keyboard"
+    ],
+    "related": [
+      "keyboard",
+      "plucked strings",
+      "baroque"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "kettledrum",
+    "definition": "A tuned percussion drum with a bowl-shaped body and a membrane, whose pitch can be adjusted.",
+    "synonyms": [
+      "timpani"
+    ],
+    "related": [
+      "percussion",
+      "orchestral percussion",
+      "mallet"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "mandolin",
+    "definition": "A small, usually eight-stringed plucked instrument with paired strings and a bright tone.",
+    "synonyms": [
+      "mandola family instrument"
+    ],
+    "related": [
+      "string instrument",
+      "pick",
+      "folk music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "marimba",
+    "definition": "A tuned percussion instrument with wooden bars and resonators, played with soft mallets.",
+    "synonyms": [
+      "wooden-bar percussion"
+    ],
+    "related": [
+      "percussion",
+      "mallet",
+      "tuned percussion"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "melodica",
+    "definition": "A small keyboard instrument in which the player blows air through a mouthpiece to sound free reeds.",
+    "synonyms": [
+      "pianica",
+      "blow-organ"
+    ],
+    "related": [
+      "keyboard",
+      "free-reed",
+      "wind instrument"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "oboe",
+    "definition": "A high-register double-reed woodwind instrument with a focused, penetrating tone; orchestras often tune to its A.",
+    "synonyms": [
+      "conservatory oboe"
+    ],
+    "related": [
+      "double reed",
+      "woodwind",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "organ",
+    "definition": "A keyboard instrument that produces sustained tones by directing air through pipes or by electronic sound generation.",
+    "synonyms": [
+      "pipe organ",
+      "electronic organ",
+      "Hammond organ"
+    ],
+    "related": [
+      "keyboard",
+      "pipes",
+      "stops",
+      "manuals",
+      "pedalboard"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "pan flute",
+    "definition": "A wind instrument made from a row of tubes of different lengths, sounded by blowing across their open ends.",
+    "synonyms": [
+      "panpipes"
+    ],
+    "related": [
+      "wind instrument",
+      "tube",
+      "folk music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "percussion",
+    "definition": "The family of instruments sounded by striking, shaking, scraping, or otherwise agitating an object.",
+    "synonyms": [
+      "percussion instruments"
+    ],
+    "related": [
+      "drums",
+      "mallets",
+      "rhythm"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "piano",
+    "definition": "A keyboard instrument in which keys cause hammers to strike strings, producing notes with controllable dynamics.",
+    "synonyms": [
+      "grand piano",
+      "upright piano"
+    ],
+    "related": [
+      "keyboard",
+      "strings",
+      "hammer",
+      "pedal"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "piccolo",
+    "definition": "A small transverse flute that sounds approximately one octave higher than the standard concert flute.",
+    "synonyms": [
+      "octave flute"
+    ],
+    "related": [
+      "woodwind",
+      "flute",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "recorder",
+    "definition": "A fipple flute with finger holes, commonly used in early music and music education.",
+    "synonyms": [
+      "fipple flute"
+    ],
+    "related": [
+      "woodwind",
+      "baroque",
+      "breath"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "saxophone",
+    "definition": "A family of single-reed woodwind instruments, usually made of brass, with a curved or straight body and a conical bore.",
+    "synonyms": [
+      "sax"
+    ],
+    "related": [
+      "single reed",
+      "woodwind",
+      "jazz"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "shaker",
+    "definition": "A percussion instrument that makes sound when its contents or body move back and forth.",
+    "synonyms": [
+      "egg shaker",
+      "maraca"
+    ],
+    "related": [
+      "percussion",
+      "rhythm",
+      "handheld instrument"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "snare drum",
+    "definition": "A two-headed drum with metal wires across the lower head, creating a sharp buzzing sound when struck.",
+    "synonyms": [
+      "side drum"
+    ],
+    "related": [
+      "percussion",
+      "drumline",
+      "rudiments"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "sousaphone",
+    "definition": "A large circular tuba designed to wrap around the player and project its bell forward, especially in marching bands.",
+    "synonyms": [
+      "marching tuba"
+    ],
+    "related": [
+      "brass",
+      "tuba",
+      "marching band"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "tambourine",
+    "definition": "A handheld frame drum, often fitted with small metal jingles, that can be shaken or struck.",
+    "synonyms": [
+      "jingle drum"
+    ],
+    "related": [
+      "percussion",
+      "handheld instrument",
+      "rhythm"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "tenor saxophone",
+    "definition": "A medium-low single-reed saxophone, commonly pitched in B-flat and widely used in jazz and concert bands.",
+    "synonyms": [
+      "tenor sax"
+    ],
+    "related": [
+      "saxophone",
+      "woodwind",
+      "reed"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "timpani",
+    "definition": "A set of large tuned kettle-shaped drums played with mallets and used in orchestras.",
+    "synonyms": [
+      "kettledrums"
+    ],
+    "related": [
+      "percussion",
+      "tuned drums",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "trombone",
+    "definition": "A brass instrument whose slide changes the length of the tubing and therefore the pitch.",
+    "synonyms": [
+      "slide trombone",
+      "bass trombone"
+    ],
+    "related": [
+      "brass",
+      "slide",
+      "mouthpiece"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "trumpet",
+    "definition": "A high-register brass instrument with valves that change the tubing length and pitch.",
+    "synonyms": [
+      "B-flat trumpet",
+      "piccolo trumpet"
+    ],
+    "related": [
+      "brass",
+      "valves",
+      "mouthpiece"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "tuba",
+    "definition": "The lowest-pitched standard brass instrument, with a large conical bore and a deep sound.",
+    "synonyms": [
+      "bass tuba",
+      "contrabass tuba"
+    ],
+    "related": [
+      "brass",
+      "valves",
+      "low brass"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "ukulele",
+    "definition": "A small four-stringed plucked instrument associated with Hawaiian music.",
+    "synonyms": [
+      "uke"
+    ],
+    "related": [
+      "string instrument",
+      "guitar family",
+      "strumming"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "vibraphone",
+    "definition": "A tuned percussion instrument with metal bars, resonators, and rotating discs that create a pulsing vibrato effect.",
+    "synonyms": [
+      "vibes"
+    ],
+    "related": [
+      "percussion",
+      "mallet",
+      "jazz"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "viola",
+    "definition": "A bowed string instrument slightly larger and lower in pitch than a violin.",
+    "synonyms": [
+      "alto violin"
+    ],
+    "related": [
+      "string instrument",
+      "bow",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "violin",
+    "definition": "The smallest and highest-pitched standard member of the orchestral bowed string family.",
+    "synonyms": [
+      "fiddle"
+    ],
+    "related": [
+      "string instrument",
+      "bow",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "xylophone",
+    "definition": "A tuned percussion instrument with wooden bars arranged by pitch and struck with mallets.",
+    "synonyms": [
+      "wood-bar instrument"
+    ],
+    "related": [
+      "percussion",
+      "mallet",
+      "tuned percussion"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "zither",
+    "definition": "A family of string instruments with strings stretched across a flat soundboard, plucked or struck.",
+    "synonyms": [
+      "concert zither"
+    ],
+    "related": [
+      "string instrument",
+      "plucking",
+      "folk music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "bagpipes",
+    "definition": "A wind instrument that uses an air reservoir bag to supply a continuous flow to one or more pipes.",
+    "synonyms": [
+      "Great Highland bagpipe"
+    ],
+    "related": [
+      "wind instrument",
+      "drone",
+      "reed"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "didgeridoo",
+    "definition": "A long wooden wind instrument traditionally associated with Aboriginal Australian musical cultures, sounded by vibrating the lips.",
+    "synonyms": [
+      "yidaki"
+    ],
+    "related": [
+      "wind instrument",
+      "drone",
+      "breath"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "djembe",
+    "definition": "A goblet-shaped hand drum originating in West Africa, played with the hands.",
+    "synonyms": [
+      "African hand drum"
+    ],
+    "related": [
+      "percussion",
+      "hand drum",
+      "rhythm"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "duduk",
+    "definition": "A double-reed woodwind instrument traditionally made from apricot wood and associated with Armenian music.",
+    "synonyms": [
+      "Armenian duduk"
+    ],
+    "related": [
+      "double reed",
+      "woodwind",
+      "folk music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "erhu",
+    "definition": "A two-stringed bowed instrument from China, played with the bow between its strings.",
+    "synonyms": [
+      "Chinese fiddle"
+    ],
+    "related": [
+      "string instrument",
+      "bow",
+      "Chinese music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "guzheng",
+    "definition": "A Chinese plucked zither with movable bridges and multiple strings.",
+    "synonyms": [
+      "Chinese zither"
+    ],
+    "related": [
+      "string instrument",
+      "plucked",
+      "Chinese music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "kalimba",
+    "definition": "A plucked lamellophone with metal tines attached to a wooden board or resonator.",
+    "synonyms": [
+      "thumb piano",
+      "mbira"
+    ],
+    "related": [
+      "plucked instrument",
+      "lamellophone",
+      "African music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "koto",
+    "definition": "A Japanese plucked zither traditionally fitted with movable bridges beneath its strings.",
+    "synonyms": [
+      "Japanese zither"
+    ],
+    "related": [
+      "string instrument",
+      "plucked",
+      "Japanese music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "oud",
+    "definition": "A fretless, short-necked lute widely used in Middle Eastern and neighboring musical traditions.",
+    "synonyms": [
+      "ud"
+    ],
+    "related": [
+      "string instrument",
+      "lute",
+      "plucked"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "sitar",
+    "definition": "A long-necked plucked string instrument associated with Hindustani classical music.",
+    "synonyms": [
+      "Indian lute"
+    ],
+    "related": [
+      "string instrument",
+      "plucked",
+      "Indian classical music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "tabla",
+    "definition": "A pair of tuned hand drums used in many North Indian musical traditions.",
+    "synonyms": [
+      "dayan and bayan"
+    ],
+    "related": [
+      "percussion",
+      "hand drums",
+      "Indian music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "theremin",
+    "definition": "An electronic instrument controlled without physical contact, using the player's hands near two antennas.",
+    "synonyms": [
+      "electronic theremin"
+    ],
+    "related": [
+      "electronic instrument",
+      "pitch",
+      "gesture"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "synthesizer",
+    "definition": "An electronic instrument that generates or processes sound and can imitate or create many kinds of tones.",
+    "synonyms": [
+      "synth"
+    ],
+    "related": [
+      "electronic instrument",
+      "keyboard",
+      "oscillator"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "electric guitar",
+    "definition": "A string instrument that uses electromagnetic pickups and amplification to make its strings audible.",
+    "synonyms": [
+      "solid-body guitar",
+      "electric"
+    ],
+    "related": [
+      "string instrument",
+      "pickup",
+      "amplifier"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "bass clarinet",
+    "definition": "A low-register member of the clarinet family that commonly sounds an octave below the B-flat clarinet.",
+    "synonyms": [
+      "bass clarinet"
+    ],
+    "related": [
+      "woodwind",
+      "single reed",
+      "clarinet"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "English horn",
+    "definition": "A tenor-range double-reed woodwind instrument, also known as the cor anglais.",
+    "synonyms": [
+      "cor anglais"
+    ],
+    "related": [
+      "double reed",
+      "oboe family",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "baritone horn",
+    "definition": "A valved brass instrument in the tenor-low register, often used in concert and brass bands.",
+    "synonyms": [
+      "baritone"
+    ],
+    "related": [
+      "brass",
+      "valves",
+      "euphonium"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "celesta",
+    "definition": "A keyboard instrument that uses hammers to strike metal plates, producing a delicate bell-like sound.",
+    "synonyms": [
+      "celeste"
+    ],
+    "related": [
+      "keyboard",
+      "tuned percussion",
+      "orchestra"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "castanets",
+    "definition": "A pair of small concave wooden or synthetic shells clicked together, often used in Spanish dance music.",
+    "synonyms": [
+      "finger castanets"
+    ],
+    "related": [
+      "percussion",
+      "handheld instrument",
+      "dance"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "claves",
+    "definition": "A pair of short wooden sticks struck together to produce a sharp, high-pitched rhythmic sound.",
+    "synonyms": [
+      "clave sticks"
+    ],
+    "related": [
+      "percussion",
+      "rhythm",
+      "Latin music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "cowbell",
+    "definition": "A metal bell struck with a stick, commonly used in Latin music and drum sets.",
+    "synonyms": [
+      "bell block"
+    ],
+    "related": [
+      "percussion",
+      "rhythm"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "triangle",
+    "definition": "A metal bar bent into a triangle and struck with a metal beater to produce a clear ringing tone.",
+    "synonyms": [
+      "orchestral triangle"
+    ],
+    "related": [
+      "percussion",
+      "tuned color",
+      "beater"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "woodblock",
+    "definition": "A hollow wooden percussion instrument struck with a stick to produce a short, resonant click.",
+    "synonyms": [
+      "temple block"
+    ],
+    "related": [
+      "percussion",
+      "rhythm"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "music stand",
+    "definition": "A support that holds sheet music at a readable angle for a performer.",
+    "synonyms": [
+      "score stand"
+    ],
+    "related": [
+      "music equipment",
+      "sheet music"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "mouthpiece",
+    "definition": "The part of a wind or brass instrument that the player places at or near the mouth to start sound production.",
+    "synonyms": [
+      "embouchure piece"
+    ],
+    "related": [
+      "wind instrument",
+      "brass",
+      "reed"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "reed",
+    "definition": "A thin strip of cane or synthetic material that vibrates to produce sound in many woodwind instruments.",
+    "synonyms": [
+      "single reed",
+      "double reed"
+    ],
+    "related": [
+      "clarinet",
+      "saxophone",
+      "oboe",
+      "bassoon"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "bow",
+    "definition": "A tensioned stick strung with horsehair or synthetic hair, drawn across string-instrument strings to produce sound.",
+    "synonyms": [
+      "violin bow"
+    ],
+    "related": [
+      "string instrument",
+      "violin",
+      "cello"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "bellows",
+    "definition": "A device that moves air, used to supply wind to instruments such as accordions and some pipe organs.",
+    "synonyms": [
+      "air bellows"
+    ],
+    "related": [
+      "accordion",
+      "organ",
+      "air"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "pipe organ stop",
+    "definition": "A control on a pipe organ that selects a rank or group of pipes with a particular tone color and pitch level.",
+    "synonyms": [
+      "organ stop",
+      "stop"
+    ],
+    "related": [
+      "pipe organ",
+      "rank",
+      "registration"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "organ pipe",
+    "definition": "A resonating tube in a pipe organ that produces a musical pitch when wind passes through it.",
+    "synonyms": [
+      "flue pipe",
+      "reed pipe"
+    ],
+    "related": [
+      "pipe organ",
+      "wind",
+      "rank"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "manual",
+    "definition": "A keyboard played by the hands on an organ.",
+    "synonyms": [
+      "organ keyboard"
+    ],
+    "related": [
+      "organ",
+      "keyboard",
+      "keys"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "pedalboard",
+    "definition": "A large set of foot-operated keys on an organ, used to play bass notes and musical lines.",
+    "synonyms": [
+      "organ pedals"
+    ],
+    "related": [
+      "organ",
+      "pedals",
+      "bass"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "rank",
+    "definition": "A set of organ pipes of the same tonal type, usually with one pipe for each key or note in its compass.",
+    "synonyms": [
+      "pipe rank"
+    ],
+    "related": [
+      "pipe organ",
+      "stop",
+      "pipes"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "drumstick",
+    "definition": "A stick used to strike drums and other percussion instruments.",
+    "synonyms": [
+      "stick",
+      "mallet"
+    ],
+    "related": [
+      "drum",
+      "percussion",
+      "drummer"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "metronome",
+    "definition": "A device that produces regular beats to help musicians maintain a steady tempo.",
+    "synonyms": [
+      "timekeeper"
+    ],
+    "related": [
+      "tempo",
+      "rhythm",
+      "practice"
+    ],
+    "category": "musical instrument and music terminology"
+  },
+  {
+    "word": "tuning fork",
+    "definition": "A two-pronged metal tool that vibrates at a fixed frequency when struck, used as a pitch reference.",
+    "synonyms": [
+      "pitch fork"
+    ],
+    "related": [
+      "tuning",
+      "frequency",
+      "pitch"
+    ],
+    "category": "musical instrument and music terminology"
   }
 ]
