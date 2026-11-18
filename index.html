@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A dictionary-powered chatbot that works locally with stored knowledge and binary text encoding.">
+  <title>Dictionary Binary AI</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#"><span class="brand-mark">01</span> Dictionary Binary AI</a>
+    <span class="local-label">LOCAL KNOWLEDGE ENGINE</span>
+  </header>
+  <main class="layout">
+    <section class="intro">
+      <p class="eyebrow">A small, transparent language engine</p>
+      <h1>Knowledge built from <span>words</span>.</h1>
+      <p class="intro-copy">Ask questions using the bundled dictionary. Answers come from stored entries and simple matching rules—no external AI service or internet lookup is used.</p>
+      <div class="stats">
+        <div><strong id="entry-count">—</strong><span>dictionary entries</span></div>
+        <div><strong>UTF-8</strong><span>binary encoding</span></div>
+        <div><strong>Offline</strong><span>after first load</span></div>
+      </div>
+    </section>
+
+    <section class="chat-panel panel">
+      <div class="panel-heading"><div><p class="eyebrow">01 / CHAT</p><h2>Ask the dictionary</h2></div><span class="status-dot">READY</span></div>
+      <div id="chat-log" class="chat-log" aria-live="polite">
+        <article class="message bot"><span class="speaker">DICTIONARY AI</span><p>Hello! Ask me to define a word, find synonyms, compare two terms, or search the dictionary.</p></article>
+      </div>
+      <form id="chat-form" class="chat-form">
+        <label class="sr-only" for="question">Your question</label>
+        <input id="question" autocomplete="off" placeholder="Try: What is music?" required>
+        <button type="submit">Ask <span>↗</span></button>
+      </form>
+      <div class="suggestions">
+        <button type="button" data-prompt="Define harmony">Define harmony</button>
+        <button type="button" data-prompt="Synonyms for brave">Synonyms for brave</button>
+        <button type="button" data-prompt="Compare rhythm and melody">Compare two words</button>
+      </div>
+    </section>
+
+    <section class="panel binary-panel">
+      <div class="panel-heading"><div><p class="eyebrow">02 / BINARY LAB</p><h2>Text ⇄ binary</h2></div><span class="tag">UTF-8</span></div>
+      <p class="muted">Convert text into its UTF-8 byte representation, or decode a sequence of 8-bit bytes.</p>
+      <label for="binary-input">Text or binary (bytes separated by spaces)</label>
+      <textarea id="binary-input" rows="3" placeholder="Type text here, or paste: 01001000 01101001"></textarea>
+      <div class="button-row"><button id="encode-btn" type="button">Encode to binary</button><button id="decode-btn" class="secondary" type="button">Decode binary</button></div>
+      <pre id="binary-output" class="binary-output" aria-live="polite">Your result will appear here.</pre>
+    </section>
+
+    <section class="panel dictionary-panel">
+      <div class="panel-heading"><div><p class="eyebrow">03 / KNOWLEDGE BASE</p><h2>Dictionary explorer</h2></div><span class="tag">LOCAL JSON</span></div>
+      <div class="search-row"><label class="sr-only" for="dictionary-search">Search entries</label><input id="dictionary-search" placeholder="Search words or definitions…"><span id="search-count" class="muted"></span></div>
+      <div id="dictionary-list" class="dictionary-list"></div>
+    </section>
+
+    <section class="panel add-panel">
+      <div class="panel-heading"><div><p class="eyebrow">04 / EXTEND</p><h2>Add a dictionary entry</h2></div><span class="tag">THIS BROWSER</span></div>
+      <p class="muted">Entries you add are saved in this browser. They are not automatically written back to dictionary.json.</p>
+      <form id="add-form" class="add-form">
+        <label>Word<input id="new-word" required maxlength="40" placeholder="e.g. overtone"></label>
+        <label>Definition<textarea id="new-definition" required maxlength="300" rows="2" placeholder="A short, clear definition…"></textarea></label>
+        <label>Synonyms <span class="muted">(comma separated)</span><input id="new-synonyms" placeholder="partial, related, similar"></label>
+        <button type="submit">Add entry +</button>
+      </form>
+      <p id="add-status" class="muted" role="status"></p>
+    </section>
+  </main>
+  <footer>Dictionary Binary AI · Rule-based demo · No external AI APIs</footer>
+</body>
+</html>
