@@ -1,0 +1,350 @@
+[
+  {
+    "word": "algorithm",
+    "definition": "A finite set of clear steps used to solve a problem or complete a task.",
+    "synonyms": [
+      "procedure",
+      "method",
+      "process"
+    ],
+    "related": [
+      "mathematics",
+      "computer",
+      "data"
+    ]
+  },
+  {
+    "word": "art",
+    "definition": "The expression or communication of ideas, feelings, or imagination through creative work.",
+    "synonyms": [
+      "creativity",
+      "expression"
+    ],
+    "related": [
+      "music",
+      "design"
+    ]
+  },
+  {
+    "word": "binary",
+    "definition": "A base-two number system that uses only the digits 0 and 1.",
+    "synonyms": [
+      "base two"
+    ],
+    "related": [
+      "computer",
+      "data",
+      "language"
+    ]
+  },
+  {
+    "word": "biology",
+    "definition": "The scientific study of living organisms and life processes.",
+    "synonyms": [
+      "life science"
+    ],
+    "related": [
+      "science",
+      "organism"
+    ]
+  },
+  {
+    "word": "computer",
+    "definition": "An electronic machine that follows instructions to process, store, and communicate information.",
+    "synonyms": [
+      "computing device"
+    ],
+    "related": [
+      "data",
+      "algorithm",
+      "network"
+    ]
+  },
+  {
+    "word": "data",
+    "definition": "Facts, observations, or measurements that can be stored and analyzed.",
+    "synonyms": [
+      "information",
+      "facts"
+    ],
+    "related": [
+      "computer",
+      "science",
+      "database"
+    ]
+  },
+  {
+    "word": "dictionary",
+    "definition": "A reference collection of words with information such as meanings, pronunciation, and usage.",
+    "synonyms": [
+      "lexicon",
+      "wordbook"
+    ],
+    "related": [
+      "language",
+      "word"
+    ]
+  },
+  {
+    "word": "energy",
+    "definition": "The capacity of a system to cause change or do work.",
+    "synonyms": [
+      "power"
+    ],
+    "related": [
+      "physics",
+      "motion"
+    ]
+  },
+  {
+    "word": "frequency",
+    "definition": "The number of times a repeating event occurs in a given amount of time.",
+    "synonyms": [
+      "rate"
+    ],
+    "related": [
+      "sound",
+      "physics",
+      "wave"
+    ]
+  },
+  {
+    "word": "harmony",
+    "definition": "The combination of notes heard together to create chords and musical support.",
+    "synonyms": [
+      "accord",
+      "agreement"
+    ],
+    "related": [
+      "music",
+      "chord",
+      "melody"
+    ]
+  },
+  {
+    "word": "language",
+    "definition": "A structured system of symbols and rules used for communication.",
+    "synonyms": [
+      "speech",
+      "communication"
+    ],
+    "related": [
+      "word",
+      "dictionary"
+    ]
+  },
+  {
+    "word": "learning",
+    "definition": "The process of gaining knowledge or skill through study, practice, or experience.",
+    "synonyms": [
+      "education",
+      "study"
+    ],
+    "related": [
+      "knowledge",
+      "memory"
+    ]
+  },
+  {
+    "word": "mathematics",
+    "definition": "The study of numbers, quantities, patterns, shapes, and logical relationships.",
+    "synonyms": [
+      "math"
+    ],
+    "related": [
+      "algorithm",
+      "science"
+    ]
+  },
+  {
+    "word": "melody",
+    "definition": "A sequence of musical notes perceived as a recognizable musical line.",
+    "synonyms": [
+      "tune",
+      "air"
+    ],
+    "related": [
+      "music",
+      "harmony",
+      "rhythm"
+    ]
+  },
+  {
+    "word": "music",
+    "definition": "The organized art of sound, often using rhythm, melody, harmony, and tone.",
+    "synonyms": [
+      "音楽",
+      "musical art"
+    ],
+    "related": [
+      "melody",
+      "harmony",
+      "rhythm",
+      "sound"
+    ]
+  },
+  {
+    "word": "network",
+    "definition": "A group of connected computers or other devices that exchange information.",
+    "synonyms": [
+      "web",
+      "system"
+    ],
+    "related": [
+      "computer",
+      "data",
+      "communication"
+    ]
+  },
+  {
+    "word": "physics",
+    "definition": "The science that studies matter, energy, motion, and their interactions.",
+    "synonyms": [
+      "physical science"
+    ],
+    "related": [
+      "energy",
+      "frequency",
+      "science"
+    ]
+  },
+  {
+    "word": "rhythm",
+    "definition": "The pattern of durations and accents in music, speech, or movement.",
+    "synonyms": [
+      "beat",
+      "pulse"
+    ],
+    "related": [
+      "music",
+      "melody",
+      "tempo"
+    ]
+  },
+  {
+    "word": "science",
+    "definition": "A systematic way of learning about the natural world through observation and testing.",
+    "synonyms": [
+      "research"
+    ],
+    "related": [
+      "biology",
+      "physics",
+      "knowledge"
+    ]
+  },
+  {
+    "word": "sound",
+    "definition": "A vibration that travels through a medium and can be heard.",
+    "synonyms": [
+      "tone",
+      "noise"
+    ],
+    "related": [
+      "music",
+      "frequency",
+      "wave"
+    ]
+  },
+  {
+    "word": "technology",
+    "definition": "The use of knowledge and tools to create methods, systems, or devices that solve problems.",
+    "synonyms": [
+      "tech"
+    ],
+    "related": [
+      "computer",
+      "engineering"
+    ]
+  },
+  {
+    "word": "theory",
+    "definition": "A well-supported explanation of a broad set of observations or events.",
+    "synonyms": [
+      "explanation",
+      "model"
+    ],
+    "related": [
+      "science",
+      "knowledge"
+    ]
+  },
+  {
+    "word": "word",
+    "definition": "A unit of language that carries meaning and can be spoken or written.",
+    "synonyms": [
+      "term",
+      "expression"
+    ],
+    "related": [
+      "language",
+      "dictionary"
+    ]
+  },
+  {
+    "word": "beautiful",
+    "definition": "Pleasing to the senses, mind, or imagination.",
+    "synonyms": [
+      "lovely",
+      "attractive"
+    ],
+    "related": [
+      "art"
+    ]
+  },
+  {
+    "word": "brave",
+    "definition": "Showing courage when facing difficulty, danger, or uncertainty.",
+    "synonyms": [
+      "courageous",
+      "bold"
+    ],
+    "related": [
+      "courage"
+    ]
+  },
+  {
+    "word": "fast",
+    "definition": "Moving or happening at high speed.",
+    "synonyms": [
+      "quick",
+      "rapid"
+    ],
+    "related": [
+      "speed"
+    ]
+  },
+  {
+    "word": "happy",
+    "definition": "Feeling or showing pleasure, contentment, or joy.",
+    "synonyms": [
+      "glad",
+      "cheerful"
+    ],
+    "related": [
+      "emotion"
+    ]
+  },
+  {
+    "word": "large",
+    "definition": "Big in size, amount, or extent.",
+    "synonyms": [
+      "big",
+      "great"
+    ],
+    "related": [
+      "small"
+    ]
+  },
+  {
+    "word": "small",
+    "definition": "Little in size, amount, or extent.",
+    "synonyms": [
+      "tiny",
+      "little"
+    ],
+    "related": [
+      "large"
+    ]
+  }
+]
